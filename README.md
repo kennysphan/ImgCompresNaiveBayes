@@ -1,4 +1,4 @@
-# Project 3: Camera Calibration and Fundamental Matrix Estimation with RANSAC
+# Project: Camera Calibration and Fundamental Matrix Estimation with RANSAC
 
 ## Setup Overview
 
